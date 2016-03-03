@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "word_exchanger"
   spec.version       = WordExchanger::VERSION
   spec.authors       = ["as6342"]
-  spec.email         = ["ashish.sharma@cryptextechnologies.com"]
+  spec.email         = ["ashish.nagdeve@cryptextechnologies.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{This is a gem who replace a with z.}
+  spec.description   = %q{This is a gem who replace a with z, it is used for testing purpose..}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
