@@ -6,7 +6,7 @@ require 'word_exchanger/version'
 Gem::Specification.new do |spec|
   spec.name          = "word_exchanger"
   spec.version       = WordExchanger::VERSION
-  spec.authors       = ["as6342"]
+  spec.authors       = ["Ashish Nagdeve"]
   spec.email         = ["ashish.nagdeve@cryptextechnologies.com"]
 
   spec.summary       = %q{This is a gem who replace a with z.}
